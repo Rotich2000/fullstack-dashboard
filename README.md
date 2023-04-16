@@ -31,8 +31,8 @@ Command: npm install @reduxjs/toolkit react-redux react-datepicker react-router-
 <br>
 if the datepicker doesn’t work pick version. 4.8.0: npm install react-datepicker@4.8.0 
 <br>
-
-<ins>Here's what i learnt</ins>
+&nbsp;
+<h2><ins>Here's what i learnt</ins></h2>
 <h4> I used useMemo react hook to:</h4> 
 <ul>
 <li>Change the theme of my website. I stored the mode as the dependency and a function <br>
